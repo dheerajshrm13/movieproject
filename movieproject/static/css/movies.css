@@ -1,0 +1,31 @@
+.container .jumbotron{
+    margin-top: 150px;
+    background:brown;
+    color: whitesmoke;
+}
+body{
+    background: url(https://images.unsplash.com/photo-1595769816263-9b910be24d5f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=879&q=80);
+    background-size: cover;
+    background-position: center;
+    color: whitesmoke;
+}
+table{
+    text-align: center;
+    color:whitesmoke;
+    border: 2px solid yellow;
+    margin: auto;
+    font-size: 30px;
+    font-synthesis: style;
+}
+form{
+    margin: 30px;
+    width:fit-content;
+    padding-left: center;
+}
+h1{
+    text-align: center;
+}
+th{
+    background:red;
+    color: yellow;
+}
